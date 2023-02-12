@@ -1,6 +1,8 @@
 # Data-engineer
 
 - data-engineer-roadmap [`GitHub`](https://github.com/datastacktv/data-engineer-roadmap)
+## Talk
+- Vasileios Mourtakos - A data engineering framework in Python [youtube](https://youtu.be/NWJ5LoV58Ps)
 ## Book
 - Fundamentals of Data Engineering: Plan and Build Robust Data Systems 1st Edition [amazon](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302)
   - Fundamentals of Data Engineering | Joe Reis and Matt Housley | 25 Oct 2022 | [youtube](https://youtu.be/mPSzL8Lurs0)
