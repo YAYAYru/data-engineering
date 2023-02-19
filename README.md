@@ -12,3 +12,4 @@
   - Meet the Author: Fundamentals of Data Engineering | DS/ML book club [github](https://youtu.be/UtAcCO-aNec)
   ### From the book
   - Resilience and Vibrancy: The 2020 Data & AI Landscape [mattturck.com](https://mattturck.com/data2020/)
+  - DataOps Cookbook [pdf](https://dkproduction.wpenginepowered.com/wp-content/uploads/2020/11/DK_dataops_book_2nd_edition.pdf) form p.68 for more information, read the DataOps Manifesto.
